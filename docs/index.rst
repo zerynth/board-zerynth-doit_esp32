@@ -14,7 +14,7 @@ The DOIT Esp32 DevKit v1 is one of the development board created by DOIT to eval
 Pin Mapping
 ***********
 
-.. figure:: /custom/img/doitesp32pin.png
+.. figure:: /custom/img/doitesp32pin.jpg
    :align: center
    :figwidth: 100% 
    :alt: DOIT Esp32 DevKit v1 Pinmap

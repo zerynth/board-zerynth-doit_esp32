@@ -1,0 +1,15 @@
+---
+description: Add support for DOIT Esp32 DevKit v1
+fullname: board.zerynth.doit_esp32
+info:
+    board: DOIT Esp32 DevKit v1
+    chip_manufacturer: Espressif
+    device: esp32
+    family_type: Xtensa lx6
+keywords:
+- DOIT
+- DevKit
+- esp32
+- board
+title: DOIT Esp32 DevKit v1 Support Package
+...
